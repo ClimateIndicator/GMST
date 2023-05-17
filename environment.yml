@@ -1,0 +1,8 @@
+name: GMST
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - openpyxl
+  - numpy
+  - pandas
