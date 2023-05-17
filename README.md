@@ -11,3 +11,6 @@ code are similarly structured and vary only in data ingest and grid format/resol
 
 Blair Trewin
 blair.trewin@bom.gov.au
+
+Update 2023-05-17 (Chris Smith):
+The makeplot.py file produces the same annual and decadal mean plot that is in the Excel file.
